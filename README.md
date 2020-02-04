@@ -4,6 +4,10 @@ Syntax highlighting for Tiger,
 a simplified programming language
 for learning to write compilers.
 
+This fork is aimed at EPITA students working on the Tiger Compiler. It tries
+to be more compliant with FunTiger, the spin-off of Tiger developed by the
+LRDE.
+
 ## Installation
 
 ### Pathogen / VIM8 pack
